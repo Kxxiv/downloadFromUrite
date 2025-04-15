@@ -1,16 +1,4 @@
-# Программа (скрипт) для скачивания книг с сайта ЮРАЙТ urait.ru
+# Программа не моя, исправил код, так как не работали некоторые библиотеки
+# link author: https://github.com/SergeiPopov/UraitDownloader?ysclid=m9itwxtj1508645833
 
-Для запуска приложения необходимо вписать свои данные от аккаунта в файл **account.txt**
-
-Содержимое файла **account.txt** 
-
-`URAIT_EMAIL=you_email@gmail.com`
-
-`URAIT_PASSWORD=your_password`
-
-# Работа с программой
-
-Вставить ссылку на книгу например
-*https://urait.ru/book/psihologicheskie-osnovy-vozhatskoy-deyatelnosti-557275*
-
-После окончания скачивания, файл .pdf появится в папке с программой
+Для использования программы нужно в поле EMAIL (17 строчка) и в поле PASSWORD (18 строчка) ввести данные от аккаунт
